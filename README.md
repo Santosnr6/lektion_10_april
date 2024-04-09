@@ -1,5 +1,8 @@
 # Lektion 10 april
 
+## Presentation
+- [React Router](https://docs.google.com/presentation/d/1l1VkwuKkNLTxl8xVqZ2l__jDqzvA72mL/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true).
+
 ## Länkar
 - [Officiell dokumentation](https://reactjs.org/).
 - [Node.js Nedladdning](https://nodejs.org/en/download).
@@ -18,7 +21,7 @@
 Hittar ni i mappen [Övningar](./Övningar/).
 
 ## Liveföreläsning
-Ingen förläsning pubicerad ännu...
+Ingen föreläsning pubicerad ännu...
 
 ## Extraresurser
 - [React Router in 45 mins med Web Dev Simplified](https://www.youtube.com/watch?v=Ul3y1LXxzdU&t=811s).
