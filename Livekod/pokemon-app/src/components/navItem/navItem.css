@@ -1,0 +1,11 @@
+.nav-item {
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: var(--pokemon-yellow);
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.nav-item:hover {
+    background-color: var(--pokemon-red-dark);
+}
