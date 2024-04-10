@@ -33,4 +33,4 @@ Hittar ni i mappen [Övningar](./Övningar/).
 Ni som är intresserade av att delta i studerandegrupper kan skriva in er i valfri grupp [här](https://docs.google.com/document/d/179YYbPcJSsOzk_GbDWZUCH55reVrCRdyAnLf8lafguY/edit?usp=sharing). Om någon hamnar ensam i en grupp så kommer jag att flytta den personen till en annan grupp som innehåller andra studerande.
 
 ## Gruppexaminationsindelning
-[Här delar ni in er i grupper](https://docs.google.com/document/d/1DpGKbG18wz1c-sMUJqIZ0qB6L7GedNwO/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true). Vill man inte hoppa in i en grupp självmant så kan man avstå, då kommer jag att dela in resterande i grupp på fredag morgon.
+[Här delar ni in er i grupper](https://docs.google.com/document/d/1DMXQ1IvNaan3jE5Tm7MR1EjDkt_XDaZu2Sy7oCpRAvc/edit?usp=sharing). Vill man inte hoppa in i en grupp självmant så kan man avstå, då kommer jag att dela in resterande i grupp på fredag morgon.
