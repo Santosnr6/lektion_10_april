@@ -9,6 +9,11 @@
     /* cursor: url('../../assets/bild.png'), auto; */
 }
 
+.card-link {
+    color: black;
+    text-decoration: none;
+}
+
 .pokemon-card:hover {
     transform: scale(1.05);
 }

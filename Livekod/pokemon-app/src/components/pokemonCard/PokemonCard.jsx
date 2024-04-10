@@ -1,8 +1,9 @@
+import { Link } from 'react-router-dom';
 import './pokemonCard.css';
 
 function PokemonCard({ pokemon }) {
   return (
-    
+    <Link to={ '/pokemon/' + pokemon.id } className="card-link">
         <article className="pokemon-card">
             <div className="card-top">
                 <img 
@@ -32,7 +33,7 @@ function PokemonCard({ pokemon }) {
                 <p className="card-stat card-stat--span-two">Total: { pokemon.stats.total } </p>
             </div>
         </article>
-    
+    </Link>
   )
 }
 

@@ -13,9 +13,6 @@ function Navigation({ direction }) {
             page : 'Search Pokémon',
             path : '/search'
         }
-        // 'Pokédex',
-        // 'Team Generator',
-        // 'Search Pokémons'
     ];
 
   return (
